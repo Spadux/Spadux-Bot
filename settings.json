@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SpaduxBot",
     "password": "",
-    "type": "mojang"
+    "type": "tlauncher"
   },
   "server": {
     "ip": "3Acat.aternos.me",
