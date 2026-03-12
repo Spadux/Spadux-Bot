@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SpaduxBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "3Acat.aternos.me",
