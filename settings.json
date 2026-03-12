@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "SpaduxBot",
     "password": "",
-    "type": "tlauncher"
+    "type": "offline"
   },
   "server": {
     "ip": "3Acat.aternos.me",
     "port": 57993,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
