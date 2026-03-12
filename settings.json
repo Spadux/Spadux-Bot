@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "3Acat.aternos.me",
+    "ip": "3Acat.aternos.me:57993",
     "port": 57993,
     "version": "",
     "try-creative": false
