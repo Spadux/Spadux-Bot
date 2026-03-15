@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "babubi.play.hosting",
+    "ip": "127.0.0.1",
     "port": 57719,
     "version": "",
     "try-creative": false
